@@ -39,13 +39,13 @@ As you have time, complete the following practice as well. You can come back to
 these during assessment prep.
 
 * Intermediate phase 1: `SELECT` basics __(20 minutes)__
-  * [`SELECT` Basics Tutorial][select tutorial1]
-  * [`SELECT` Quiz][select quiz1]
+  * [`SELECT` Basics Tutorial][select tutorial1] - done
+  * [`SELECT` Quiz][select quiz1] - done 7/7
 * Intermediate phase 2: More `SELECT` __(30 minutes)__
-  * [`SELECT` World Tutorial][select tutorial2]
+  * [`SELECT` World Tutorial][select tutorial2] - quick look
   * [`SELECT` BBC Quiz][select quiz2]
 * Intermediate phase 3: Even more `SELECT` __(30 minutes)__
-  * [`SELECT` Nobel Tutorial][select tutorial3]
+  * [`SELECT` Nobel Tutorial][select tutorial3] - quick look
   * [`SELECT` Nobel Quiz][select quiz3]
 
 [create reference1]: https://sqlzoo.net/wiki/CREATE_TABLE
