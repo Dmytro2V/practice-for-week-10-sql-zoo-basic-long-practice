@@ -10,17 +10,17 @@ asssessment.
 
 Begin by reviewing the following concepts using reference material in SQL Zoo.
 
-* [`CREATE TABLE`][create reference1]
-* [`DROP TABLE`][drop reference1]
+* [`CREATE TABLE`][create reference1] - done
+* [`DROP TABLE`][drop reference1] - done
 * `SELECT`
-  * [SELECT][select reference1]
-  * [SELECT...WHERE][select reference2]
+  * [SELECT][select reference1] - done
+  * [SELECT...WHERE][select reference2] -done
 * `INSERT`
-  * [INSERT...VALUES][insert reference1]
+  * [INSERT...VALUES][insert reference1] - done
 * `DELETE`
-  * [`DELETE`][delete reference1]
+  * [`DELETE`][delete reference1] -done
 * `UPDATE`
-  * [`UPDATE`][update reference1]
+  * [`UPDATE`][update reference1] -done
 
 ## `WHERE` filters tutorial
 
